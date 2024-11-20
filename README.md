@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to meet you!</h1>
 
 
-<p>Welcome to my page! </br> I'm Kevin, Computer Science Masters student at <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" width="20"/> Purdue University. My interest areas are: AI/ML, NLP, and LLMs.<br> Currently looking for following jobs: AI/ML engineer, software engineer or fullstack developer. </p> 
+<p>Welcome to my page! </br> I'm Kevin, Computer Science Masters student at <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" width="20"/> Purdue University. I completed my undergraduate studies at Ohio State University, majoring in Computer Science and Engineering. My research interests include AI/ML, Health Informatics, Natural Language Processing, and Large Language Models.</p> 
 
 <h3>Things I code with</h3>
 <p>
